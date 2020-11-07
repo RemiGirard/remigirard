@@ -8,4 +8,4 @@ Reach me at     => remi.girard@ntymail.com
 
 Challenge me on => https://www.codingame.com/profile/881323891be2a59aeb3a778b80e18dae6846583
 
-Hire me on:     => https://www.malt.fr/profile/remigirard
+Hire me here:     => https://www.malt.fr/profile/remigirard
