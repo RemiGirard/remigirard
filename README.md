@@ -1,4 +1,4 @@
-### Remi Girard - passionated full stack developer
+### Remi Girard - full stack developer
 My favourite dev tools are Symfony, React and NodeJS. I have knowledge on Docker, system administration and IT security as well.
 
 I started to code tools for companies in 2016. Previously, I was an audiovisual technician and system administrator. 
