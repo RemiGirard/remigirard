@@ -1,5 +1,5 @@
 ### Remi Girard - full stack developer
-My favourite dev tools are React and NodeJS.
+My favourite dev tools are Symfony, React and NodeJS.
 
 Reach me at     => remi.girard@protonmail.com
 
